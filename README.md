@@ -1,5 +1,13 @@
 
-# Maze Bot (Search Algorithms)
+# AI Maze Solver Agent (Search Algorithms) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+## Contributors 
+
+* Hrithik Reddy RA2111047010210
+* Sai Teja RA2111047010244
+
+## Description 
 
 * This project uses Breadth First Search (BFS), Depth First Search (DFS) and A * Search (AS) search methods in order to solve nxn mazes. The code begins by reading in map.txt and assigning its values to an equivalent size 2D array. It then goes through BFS, DFS and AS in order to find exits marked E1, E2 and navigate from bottom left corner to the top right corner of the maze.
 
